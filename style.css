@@ -2,9 +2,10 @@ html {
     font-size: 22px;
 }
 img{
-    width: 500px;
-    min-height: 500px;
-    }
+  width: auto ;
+  max-width: 100% ;
+  height: auto ;
+}
 
 body {
     background-color: rgb(69, 117, 117);
